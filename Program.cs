@@ -13,7 +13,7 @@ namespace Lab02v2
             Console.WriteLine(valor2);
             Console.WriteLine(valor3);
             Console.WriteLine("hhh");
-            Console.WriteLine("puto");
+            Console.WriteLine("hola");
             Console.ReadKey();
         }
     }
