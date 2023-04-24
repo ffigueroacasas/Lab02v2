@@ -8,5 +8,6 @@ namespace Lab02v2
 {
     class Class1
     {
+        //asdasfioasdyhwerht
     }
 }
